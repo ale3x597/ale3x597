@@ -1,3 +1,4 @@
+![Alex Hernandez Banner ](Alex_Banner.png)
 <h1 align="center">Hi 👋, I'm Alex Hernandez</h1>
 <h3 align="center">An Aspiring Front-End Developer with a Bachelors from UNC-Pembroke</h3>
 
